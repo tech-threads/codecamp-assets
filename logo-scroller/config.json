@@ -1,4 +1,5 @@
 {
+  "event-start-time": "2023-11-17 08:00:00",
   "event-end-times": [
     {
       "day-camp": "2023-11-17 15:00:00",
@@ -7,27 +8,38 @@
   ],
   "announcements": [
     {
-      "show-at": "2023-11-17 08:00:00",
+      "show-at": "2023-11-17 07:58:00",
+      "hide-at" "2023-11-17 07:59:00",
       "type": "video",
-      "src": ""
+      "src": "https://www.youtube.com/embed/PdEHEwCyHXk?si=Ax9RrCUVmL93NxOX"
     }, 
     {
+      "show-at": "2023-11-17 07:59:00",
+      "hide-at": "2023-11-17 08:01:00",
+      "type": "jumbotron-text-with-countdown-to-start",
+      "src": "CodeCamp Begins at {event-start-time}. Happy Coding!"
+    },
+    {
       "show-at": "2023-11-17 11:55:00",
+      "hide-at": "2023-11-17 12:15:00",
       "type": "text",
       "src": "Lunch Begins at 12pm. Please form an orderly line so that everyone can receive their lunch quickly."
     },
     {
       "show-at": "2023-11-17 14:55:00",
+      "hide-at": "2023-11-17 14:58:00",
       "type": "video",
       "src": "day-camp-countdown-video-link"
     },
     {
-      "show-at": "2023-11-17 15:05:00",
+      "show-at": "2023-11-17 14:58:00",
+      "hide-at": "2023-11-17 15:20:00",
       "type": "text",
       "src": "Day-Campers! Please stay at your table for judging."
     },
     {
       "show-at": "2023-11-17 16:00:00",
+      "hide-at": "2023-11-17 16:02:00",
       "type": "video",
       "src": "Awards-video?"
     },
