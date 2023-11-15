@@ -23,7 +23,13 @@
       "show-at": "2023-11-17 11:55:00",
       "hide-at": "2023-11-17 12:15:00",
       "type": "text",
-      "src": "Lunch Begins at 12pm. Please form an orderly line so that everyone can receive their lunch quickly."
+      "src": "Lunch Begins at 12pm. <br> Please form an orderly line so that everyone can receive their lunch quickly."
+    },
+    {
+      "show-at": "2023-11-17 12:15:00",
+      "hide-at": "2023-11-17 12:15:00",
+      "type": "text",
+      "src": ""
     },
     {
       "show-at": "2023-11-17 14:55:00",
