@@ -1,0 +1,44 @@
+{
+  "event-end-times": [
+    {
+      "day-camp": "2023-11-17 15:00:00",
+      "cc-classic": "2023-11-18 08:00:00"
+    }
+  ],
+  "announcements": [
+    {
+      "show-at": "2023-11-17 08:00:00",
+      "type": "video",
+      "src": ""
+    }, 
+    {
+      "show-at": "2023-11-17 11:55:00",
+      "type": "text",
+      "src": "Lunch Begins at 12pm. Please form an orderly line so that everyone can receive their lunch quickly."
+    },
+    {
+      "show-at": "2023-11-17 14:55:00",
+      "type": "video",
+      "src": "day-camp-countdown-video-link"
+    },
+    {
+      "show-at": "2023-11-17 15:05:00",
+      "type": "text",
+      "src": "Day-Campers! Please stay at your table for judging."
+    },
+    {
+      "show-at": "2023-11-17 16:00:00",
+      "type": "video",
+      "src": "Awards-video?"
+    },
+  ],
+  "wifi-information": {
+    "network-name": "CodeCamp2023",
+    "network-password": "12345Luggage"
+  },
+  "notice-override": {
+    "type": "",
+    "src": "",
+    "enabled": false
+  }
+}
