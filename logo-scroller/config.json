@@ -8,8 +8,9 @@
   ],
   "announcements": [
     {
-      "show-at": "2023-11-17 07:58:00",
-      "hide-at": "2023-11-17 07:59:00",
+       "show-at": "2023-11-17 11:55:00",
+      "hide-at": "2023-11-17 12:15:00",
+      
       "type": "video",
       "src": "https://www.youtube.com/embed/PdEHEwCyHXk?si=Ax9RrCUVmL93NxOX"
     }, 
@@ -20,8 +21,8 @@
       "src": "CodeCamp Begins at {event-start-time}. Happy Coding!"
     },
     {
-      "show-at": "2023-11-17 11:55:00",
-      "hide-at": "2023-11-17 12:15:00",
+      "show-at": "2023-11-17 07:58:00",
+      "hide-at": "2023-11-17 07:59:00",
       "type": "text",
       "src": "Lunch Begins at 12pm. <br> Please form an orderly line so that everyone can receive their lunch quickly."
     },
