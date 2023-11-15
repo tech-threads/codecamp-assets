@@ -9,7 +9,7 @@
   "announcements": [
     {
       "show-at": "2023-11-17 07:58:00",
-      "hide-at" "2023-11-17 07:59:00",
+      "hide-at": "2023-11-17 07:59:00",
       "type": "video",
       "src": "https://www.youtube.com/embed/PdEHEwCyHXk?si=Ax9RrCUVmL93NxOX"
     }, 
